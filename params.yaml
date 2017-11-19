@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 150
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_miquel_vaio__37997: 'http://miquel-Vaio:37997/'}
+rosversion: '1.12.7
+
+  '
+run_id: c7e2a588-cd4d-11e7-a9cc-88532e415663
